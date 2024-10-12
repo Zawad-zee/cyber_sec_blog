@@ -1,4 +1,4 @@
-# test_views.py
+# test_views.py to test the views
 
 def test_index_ok(client):
     # Make a GET request to / and store the response object

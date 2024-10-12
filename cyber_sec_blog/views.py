@@ -1,4 +1,4 @@
-# cyber_sec_blog/views.py
+# cyber_sec_blog/views.py viewing the landing page
 
 from django.http import HttpResponse
 
